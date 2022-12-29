@@ -1,0 +1,1 @@
+"Ragadós" (sticky) footer - Abszolút pozícióval
