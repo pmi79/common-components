@@ -1,0 +1,1 @@
+"Ragadós" (sticky) footer - calc() megoldás
